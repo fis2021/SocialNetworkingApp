@@ -1,8 +1,7 @@
 # Default ignored files
-/shelf/
-/workspace.xml
+/.idea/shelf/
+/.idea/workspace.xml
 # Datasource local storage ignored files
-/../../../../../../:\Users\Patrik\IdeaProjects\SocialNetworkingApp\.idea/dataSources/
-/dataSources.local.xml
+/.idea/dataSources/
 # Editor-based HTTP Client requests
-/httpRequests/
+/.idea/httpRequests/
