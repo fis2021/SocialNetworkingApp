@@ -1,11 +1,19 @@
-# Gradle folder
-.gradle
-# Idea folder
-.idea/tasks.xml
-.idea/workspace.xml
-# Datasource files
-*.dataSource
-# Editor-based HTTP Client requests
-*.httpRequests
+# Compiled Java files
+*.class
+# Archive files
+*.jar
+*.war
+*.ear
+# IntelliJ generated files
+bin/**
+gen/**
+.idea/
+*.iml
+*.ipr
+*.iws
+.gradletasknamecache
+.gradle/
+build/
+bin/
 
 
