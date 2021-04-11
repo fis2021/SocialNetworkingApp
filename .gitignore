@@ -1,7 +1,11 @@
-# Default ignored files
-.idea/shelf/
+# Gradle folder
+.gradle
+# Idea folder
+.idea/tasks.xml
 .idea/workspace.xml
-# Datasource local storage ignored files
-dataSources/
+# Datasource files
+*.dataSource
 # Editor-based HTTP Client requests
-httpRequests/
+*.httpRequests
+
+
