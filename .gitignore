@@ -1,12 +1,10 @@
-# Compiled Java files
-*.class
-# IntelliJ generated files
-bin/**
-gen/**
+# IntelliJ IDEA
+*.iml
 .idea/
-.gradletasknamecache
-.gradle/
-build/
-bin/
-
-
+# Gradle
+.gradle
+**/build/
+!src/**/build/
+# Java
+.java-version
+*.class
