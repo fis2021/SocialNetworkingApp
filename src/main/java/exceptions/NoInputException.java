@@ -1,4 +1,4 @@
 package exceptions;
 
-public class NoInputException {
+public class NoInputException extends Exception {
 }

@@ -1,4 +1,4 @@
 package exceptions;
 
-public class WrongCredentialsException {
+public class WrongCredentialsException extends Exception {
 }
