@@ -1,4 +1,4 @@
 package exceptions;
 
-public class NoConnectionException {
+public class NoConnectionException extends Exception {
 }

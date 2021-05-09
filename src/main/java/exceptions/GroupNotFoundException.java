@@ -1,4 +1,4 @@
 package exceptions;
 
-public class GroupNotFoundException {
+public class GroupNotFoundException extends Exception{
 }

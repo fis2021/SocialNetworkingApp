@@ -1,4 +1,4 @@
 package exceptions;
 
-public class NameTakenException {
+public class NameTakenException extends Exception {
 }

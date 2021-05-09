@@ -1,4 +1,4 @@
 package exceptions;
 
-public class InvalidInputException {
+public class InvalidInputException extends Exception {
 }
